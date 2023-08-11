@@ -1,0 +1,26 @@
+PODS:
+  - DYUIKit (0.1.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - DYUIKit (from `/Users/linlixiang/Desktop/Datafly/DYUIKit`)
+  - "SnapKit (from `git@github.com:Lin-li-x/SnapKit.git`)"
+
+EXTERNAL SOURCES:
+  DYUIKit:
+    :path: "/Users/linlixiang/Desktop/Datafly/DYUIKit"
+  SnapKit:
+    :git: "git@github.com:Lin-li-x/SnapKit.git"
+
+CHECKOUT OPTIONS:
+  SnapKit:
+    :commit: 58320fe80522414bf3a7e24c88123581dc586752
+    :git: "git@github.com:Lin-li-x/SnapKit.git"
+
+SPEC CHECKSUMS:
+  DYUIKit: 9a180afc3b28325f553be47aa1920076bbc6173e
+  SnapKit: 9eedce9d0d01ad07c7c75194ee7d39b42c04bb1f
+
+PODFILE CHECKSUM: 893fca629d021d9916a4b7781e9d652e2c59ea0d
+
+COCOAPODS: 1.12.1

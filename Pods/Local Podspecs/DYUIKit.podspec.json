@@ -1,0 +1,22 @@
+{
+  "name": "DYUIKit",
+  "version": "0.1.0",
+  "summary": "A short description of DYUIKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/linlixiang5214/DYUIKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "linlixiang5214": "924203689@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/linlixiang5214/DYUIKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DYUIKit/Classes/**/*"
+}

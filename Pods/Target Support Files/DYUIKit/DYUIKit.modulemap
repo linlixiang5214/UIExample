@@ -1,0 +1,6 @@
+framework module DYUIKit {
+  umbrella header "DYUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
